@@ -1,6 +1,6 @@
-# TraceLens MCP
+# Devtools TraceLens MCP
 
-This repository is reserved for the TraceLens MCP layer.
+This repository is reserved for the Devtools TraceLens MCP layer.
 
 Current scope:
 
@@ -10,4 +10,4 @@ Current scope:
 
 The Chrome extension lives in the sibling repository:
 
-- `tracelens-extension`
+- `devtools-tracelens-extension`
